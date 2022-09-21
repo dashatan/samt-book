@@ -1,0 +1,14 @@
+{
+  "presets": [
+    "react-app"
+  ],
+  "plugins": [
+    "@babel/plugin-proposal-class-properties",
+    ["module-resolver", {
+      "root": ["./resources/react-app/src"],
+      "alias": {
+        "components": "./components"
+      }
+    }]
+  ]
+}

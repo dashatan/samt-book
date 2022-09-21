@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "samtbook-27aaa",
+  "private_key_id": "e48deffbe6fe7a3ce08f6e4657427975cf2a3d77",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQClgaVmS7DYD60H\nySpqSPcK/jR2crsVGpjvJ4YFLuxz+cqHygFOCRICdmwxjDqhR2/Nji/jqENvXX/d\n9hYR/jp7ujq4nQSR28qSf7bcrlhAeAJKLngXmAi9GjE8BibQf6citrNkqFLLfvUK\n4Cx1a1VPkKTfX6kdZBH6CnNhPVwJBiHpfVCKBKwzIAz4UKYzoJYRbzeTYAWO5KCW\ndAWpWWsJENfXc5WPJW21RQ8Ej9lUcSXnuyUT0fgMI5BJ5UYMfazBUt3z2X6ej6FZ\nqMIWn840RMvz8eYbqGgbxCw4ttKzC2PMSwmDnfjuCE7UAzJtiBgV3R9S2wVQ2GDM\ng3rx8V9XAgMBAAECggEAASCpflFssoQk0yVBNzkpCbeipt3wPVwRh6uWw6lGriGZ\nCiTLrnrsVvz0jr/cVGX2solR9TSbxQH3kY0QKG45esdRiBl1wwKi1i2tksJTUpke\ntt+rLMn54UPw6u5FzGzaOCfTgA+PhNhoFftiAijJi4G6RdVSgyM/5hq1H4f5/Qu9\nVUogJ5SRCkYx4dzpqCXwvRXx+Zcy3mZ/p3wGsUyjdbz/6XR8GvP4UQOG822nXe6U\n6fP6jODjHSJxHJMkl5PekRXF9W/Jg7YETCv8Gyzs8mNaR3UVRW2NTt/3rIzTZFNX\nCk87luBZ9EczGHM9ohKuSgddFAlOcM5XS4EsrbG4pQKBgQDh2z+AwcO5wxooUizo\nvRFU0f2Ja+utXm3wM+QwgKysdiK+flwFBZnScc8JARpUZG05F3uDRjAMxX8iLQfx\nAEPAXfeHNnWo4doTpmWmkVGMMsCkXTtrKAtq1l4wz3yZPxRACMlQYmr54QqAbWF2\nMaN+YFbKkM1ZPFgu2e+oyPKmiwKBgQC7mHEoiHw4MNHqWW2w0IT/3wQiz1iPdeov\n9vSj83NCzSXqEqEiNBLDHts9XfzyZd4sJgaU/BwL8cE+OohhiPOa/6+YjfKgarPU\nHStw25OQFo7zz0RAwBz/UdqhYqJSBS0cgtk3fYrQ0mv2KaoASFOfUojZi6bE9M4c\n0nzIM6jP5QKBgQCabDayCUmSlFQpJ25vPv4/mUgZkoFUS1Etv70QcJofXLKKvoia\nImc23Puqc2eWNgf71hNsASxPPyWar2FTpVOtjlH00AaIjst1TfsIdSlliznt55T9\nwiZ0SNej1emiOd/VnGxQmsn7yaNNhfvyPSRE/we4fmL41WqRtg7Hv4Uw2wKBgQC5\n8aA4TRDToZBwebQATq+F78hpuJxPltFKOb7Dw8u7qxypp02QWY0/WpZ1fXP70H0n\nxYlAo6QpMrgYtmv4QYc1W7rxu8GCwED/PuqQMxVQ/Qs1H3zHsaUMblYHIX1DT14n\npIsqNYYi9m+M0D9xiD9a7LQ47fOfxgeHChwlVQ8/AQKBgQDHKF8dcOvx3diWY/xY\nhxSD0sJAa0Cue5XWMV60X/dGXOLaDZHJfCSPzSKbuogKcJhdCw+V7Icb2ElYIwTK\n7FJvwuEs0JrlTHqzYO8jS7eL99CLOmBPiz0lHZKA5cuNizdgiixcX4yvXn9OmuTd\nUBBc7g4CVCjysR+mUzcgScCpnA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "samtbook@samtbook-27aaa.iam.gserviceaccount.com",
+  "client_id": "108396487351898191756",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/samtbook%40samtbook-27aaa.iam.gserviceaccount.com"
+}
