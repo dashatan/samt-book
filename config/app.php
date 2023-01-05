@@ -166,7 +166,8 @@ return [
          * Package Service Providers...
          */
         Jenssegers\Agent\AgentServiceProvider::class,
-        Hekmatinasser\Verta\VertaServiceProvider::class,
+        // Hekmatinasser\Verta\VertaServiceProvider::class,
+        Hekmatinasser\Verta\Laravel\VertaServiceProvider::class,
         /*
          * Application Service Providers...
          */
@@ -227,7 +228,8 @@ return [
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
         'Agent' => Jenssegers\Agent\Facades\Agent::class,
-        'Verta' => Hekmatinasser\Verta\Verta::class,
+        // 'Verta' => Hekmatinasser\Verta\Verta::class,
+        'Verta' => Hekmatinasser\Verta\Laravel\VertaServiceProvider::class,
     ],
 
 ];
